@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="FileName" RecordLimit="1" SearchSubDirs="False" FileFormat="0">C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>False</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>03_2.04 - Inventory 06.18.19.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_2" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_3" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_4" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_5" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_6" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_7" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_8" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_9" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_10" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_11" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_12" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_13" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_14" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_15" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_16" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_17" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_18" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_19" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_20" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_21" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_22" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_23" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_24" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_25" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_26" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_27" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_28" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_29" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_30" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_31" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_32" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_33" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_34" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_35" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_36" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_37" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_38" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_39" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_40" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_41" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_42" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="Field_43" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="198" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="FileName" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Field_1" selected="True" />
+            <Field field="Field_2" selected="True" />
+            <Field field="Field_3" selected="True" />
+            <Field field="Field_4" selected="True" />
+            <Field field="Field_5" selected="True" />
+            <Field field="Field_6" selected="True" />
+            <Field field="Field_7" selected="True" />
+            <Field field="Field_8" selected="True" />
+            <Field field="Field_9" selected="True" />
+            <Field field="Field_10" selected="True" />
+            <Field field="Field_11" selected="True" />
+            <Field field="Field_12" selected="True" />
+            <Field field="Field_13" selected="True" />
+            <Field field="Field_14" selected="True" />
+            <Field field="Field_15" selected="True" />
+            <Field field="Field_16" selected="True" />
+            <Field field="Field_17" selected="True" />
+            <Field field="Field_18" selected="True" />
+            <Field field="Field_19" selected="True" />
+            <Field field="Field_20" selected="True" />
+            <Field field="Field_21" selected="True" />
+            <Field field="Field_22" selected="True" />
+            <Field field="Field_23" selected="True" />
+            <Field field="Field_24" selected="True" />
+            <Field field="Field_25" selected="True" />
+            <Field field="Field_26" selected="True" />
+            <Field field="Field_27" selected="True" />
+            <Field field="Field_28" selected="True" />
+            <Field field="Field_29" selected="True" />
+            <Field field="Field_30" selected="True" />
+            <Field field="Field_31" selected="True" />
+            <Field field="Field_32" selected="True" />
+            <Field field="Field_33" selected="True" />
+            <Field field="Field_34" selected="True" />
+            <Field field="Field_35" selected="True" />
+            <Field field="Field_36" selected="True" />
+            <Field field="Field_37" selected="True" />
+            <Field field="Field_38" selected="True" />
+            <Field field="Field_39" selected="True" />
+            <Field field="Field_40" selected="True" />
+            <Field field="Field_41" selected="True" />
+            <Field field="Field_42" selected="True" />
+            <Field field="Field_43" selected="True" />
+            <Field field="FileName" selected="False" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+            <Field name="Name" size="8" source="Transpose:" type="String" />
+            <Field name="Value" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.ControlParam.ControlParam">
+        <Position x="66" y="54" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+        <Position x="60" y="156" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="390" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Output34</Name>
+          <Abbrev />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="294" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="FileName" selected="True" type="V_WString" forced="True" size="254" />
+            <SelectField field="Name" selected="True" type="String" forced="True" size="8" />
+            <SelectField field="Value" selected="True" type="V_WString" forced="True" size="254" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+            <Field name="Name" size="8" source="Transpose:" type="String" />
+            <Field name="Value" size="254" source="File: C:\Users\sunny.sharma\Documents\Projects\Hitesh\CEI Project Model\Data\Point 14\03_2.04 - Inventory 06.18.19.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="32" Connection="Question" />
+      <Destination ToolID="33" Connection="Question" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="33" Connection="Action" />
+      <Destination ToolID="30" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>ControlParam.Control Parameter (32)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Output (34)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Headers Workflow3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions>
+        <NoCondition>
+          <Type>NoCondition</Type>
+          <Description>(Always Run)</Description>
+          <True>
+            <Action>
+              <Type>UpdateValue</Type>
+              <Description />
+              <ToolId value="33" />
+              <Mode>Simple</Mode>
+              <Variable />
+              <Replace value="False" />
+              <Destination>30/File</Destination>
+            </Action>
+          </True>
+        </NoCondition>
+      </Actions>
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (1)</Name>
+          <ToolId value="1" />
+          <Questions>
+            <Question>
+              <Type>ControlParam</Type>
+              <Description>Control Parameter (32)</Description>
+              <Name>Control Parameter (32)</Name>
+              <ToolId value="32" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (34)</Description>
+              <Name>Macro Output (34)</Name>
+              <ToolId value="34" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <BatchMacro>
+        <OutputMode>AllSame</OutputMode>
+        <ControlParams>
+          <ControlParam>
+            <Name>Control Parameter (32)</Name>
+            <Description>Control Parameter (32)</Description>
+          </ControlParam>
+        </ControlParams>
+      </BatchMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="34" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
